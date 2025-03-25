@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DevquizApplication {
 
 	public static void main(String[] args) {
-		System.out.println("hello");
+		System.out.println("hello world, how are you today?");
 		SpringApplication.run(DevquizApplication.class, args);
 	}
 
